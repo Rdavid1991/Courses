@@ -1,0 +1,13 @@
+cargo new app: Crea aplicaciones 
+
+cargo new app --lib: Crea librerías
+
+cargo build: compila proyecto con cargo
+
+cargo build --release: compila proyecto con cargo y optimiza compilación
+
+cargo run: compila y ejecuta proyecto con cargo
+
+cargo check: verifica sin compilar
+
+cargo add <nombre de dependencia>: Agrega dependencia por comando
